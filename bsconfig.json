@@ -2,7 +2,13 @@
   "name": "json-diff",
   "version": "0.1.0",
   "sources": {
-    "dir" : "src",
-    "subdirs" : true
-  }
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": [
+    {
+      "module": "es6",
+      "in-source": false
+    }
+  ]
 }
